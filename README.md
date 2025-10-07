@@ -236,8 +236,7 @@ contact.html
 ```
 
 ## OUTPUT:
-![alt text](<vishw
-a/restapp/static/Screenshot (27).png>)
+![alt text](<vishwa/restapp/static/Screenshot (27).png>)
 ![alt text](<vishwa/restapp/static/Screenshot (28).png>)
 ![alt text](<vishwa/restapp/static/Screenshot (29).png>)
 ![alt text](<vishwa/restapp/static/Screenshot (30).png>)
