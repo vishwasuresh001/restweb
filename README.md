@@ -231,7 +231,7 @@ contact.html
   </footer>
 
 </body>
-</html>cd
+</html>
 
 ```
 
