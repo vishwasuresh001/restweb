@@ -120,6 +120,95 @@ administration.html
 </body>
 </html>
 
+style.css
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: #fdf6f0;
+  color: #333;
+}
+
+header {
+  background-color: #8B0000;
+  color: white;
+  padding: 20px;
+  text-align: center; 
+}
+
+nav a {
+  color: white;
+  margin: 0 15px;
+  text-decoration: none;
+}
+
+.banner img {
+  width: 100%;
+  height: 1500px;
+}
+
+section.content {
+  padding: 40px;
+  text-align: center;
+}
+
+.menu-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 20px;
+  padding: 40px;
+}
+
+.menu-item {
+  background-color: #fff;
+  border: 1px solid #ccc;
+  padding: 15px;
+  border-radius: 10px;
+  text-align: center;
+}
+
+.menu-item img {
+  width: 100%;
+  height: 100px;
+  object-fit: cover;
+  border-radius: 10px;
+}
+
+.admin-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  padding: 40px;
+  justify-content: center;
+}
+
+.admin-card {
+  width: 100px;
+  background-color: #ffffff;
+  padding: 15px;
+  border-radius: 10px;
+  text-align: center;
+  border: 1px solid #cccccc;
+}
+
+.admin-card img {
+  width: 100%;
+  height: 100px;
+  object-fit: cover;
+  border-radius: 10px;
+}
+
+.contact-info {
+  padding: 40px;
+  text-align: center;
+  line-height: 1.8;
+}
+
+footer {
+  background-color: #333333;
+  color: rgb(255, 255, 255);
+  text-align: center;
+  padding: 25px;
+}
 menu.html
 !DOCTYPE html>
 <html lang="en">
@@ -236,8 +325,9 @@ contact.html
 ```
 
 ## OUTPUT:
-![alt text](<vishwa/restapp/static/Screenshot (27).png>)
-![alt text](<vishwa/restapp/static/Screenshot (28).png>)
+
+![alt text](<vishwa/restapp/static/Screenshot (36).png>)
+![alt text](<vishwa/restapp/static/Screenshot (37).png>)
 ![alt text](<vishwa/restapp/static/Screenshot (29).png>)
 ![alt text](<vishwa/restapp/static/Screenshot (30).png>)
 
