@@ -272,55 +272,39 @@ contact.html
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <title>Contact Us - MADARA RESTAURANTS</title>
-  <link rel="stylesheet" href="style.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MADARA RESTAURANTS - Contact Us</title>
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
+    <header>
+        <div class="Owner-content">
+            <h1>MADARA RESTAURANTS</h1>
+            <nav>
+                <ul>
+                    <li align="left"><a href="index.html">Home</a></li>
+                    <li align="left"><a href="menu.html">Menu</a></li>
+                    <li align="left"><a href="administration.html">Our Team</a></li>
+                    <li align="left"><a href="contact.html">Contact Us</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
 
-  <header>
-    <h1>Contact Us</h1>
-    <nav>
-      <a href="index.html">Home</a>
-      <a href="menu.html">Menu</a>
-      <a href="administration.html">Administration</a>
-      <a href="contact.html">Contact Us</a>
-    </nav>
-  </header>
+    <main class="contact-info">
+        <h2>Contact & Reservations</h2>
+        <p>Location:tambaram,chennai </p>
+        <p>Phone: +91 8072535736</p>
+        <p>Email: vishwa012rr@gmail.com</p>
+        <p>Catering Inquiries: abc012@gmail.com</p>
+    </main>
 
-  <section class="contact-info">
-    <h2>Get in Touch</h2>
-    <p>📍 <strong>Address:</strong> no /121  tambaram, Chennai , Tamil Nadu</p>
-    <p>📞 <strong>Phone:</strong> (123) 143-536-4568</p>
-    <p>✉ <strong>Email:</strong> madararestaurants@gmail.com</p>
-  </section>
-  
-
-
- <!-- Optional: Contact Form (if needed) -->
-  <!--
-  <section class="contact-form">
-    <form>
-      <label for="name">Name:</label><br>
-      <input type="text" id="name" name="name"><br><br>
-
-      <label for="email">Email:</label><br>
-      <input type="email" id="email" name="email"><br><br>
-
-      <label for="message">Message:</label><br>
-      <textarea id="message" name="message" rows="5"></textarea><br><br>
-
-      <button type="submit">Send Message</button>
-    </form>
-  </section>
-  -->
-
-  <footer>
-    <p>&copy; 2025. Designed by  VISHWA S</p>
-  </footer>
-
+    <footer>
+        <p>MADARA RESTAURANTS | Designed by vishwa.s - (25012636)</p>
+    </footer>
 </body>
-</html>
+</html
 
 ```
 
@@ -329,7 +313,7 @@ contact.html
 ![alt text](<vishwa/restapp/static/Screenshot (36).png>)
 ![alt text](<vishwa/restapp/static/Screenshot (37).png>)
 ![alt text](<vishwa/restapp/static/Screenshot (29).png>)
-![alt text](<vishwa/restapp/static/Screenshot (30).png>)
+![alt text](<vishwa/restapp/static/Screenshot (56).png>)
 
 
 ## RESULT:
